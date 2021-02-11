@@ -345,6 +345,8 @@
   "app.saveandedit": "Save and edit",
   "app.savepreset": "Save as preset",
   "app.saving": "Saving...",
+  "app.scaffold.general": "General",
+  "app.scaffold.settings": "Settings",
   "app.search": "Search",
   "app.searchByMail": "Search by email",
   "app.searchbyname": "Search by name",
